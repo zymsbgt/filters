@@ -1,5 +1,5 @@
-! Title: Zym's Filter List
-! Expires: 120 days
+! Title: Zym's Base Filter List
+! Expires: 360 days
 ! Homepage: https://github.com/zymsbgt
 ! Homepage for the repository: https://github.com/zymsbgt
 
@@ -22,3 +22,15 @@ smartlock.google.com
 ! Removes Wix banner from Wix sites
 *.wixsite.com##.has-custom-focus.YD5pSO.Oxzvyr
 manage.wix.com##.yN9WA.o3eezgx---justifyContent-6-middle.o3eezgx---alignItems-6-center.o3eezgx---direction-10-horizontal.s2FTUXs
+
+! Stops Discord telementry
+||discord.com/api/v*/science
+
+! In case your browser gets infected with malware, stops malwares from getting your IP address
+icanhazip.com
+
+! Blocks analytics from DBS/POSB Bank (Singapore)
+dbsa-digital-analytics.dbs.com
+
+! I forgot what this one was for
+www.wired.com##.gGZzTy.UnitWrapper-Tmnmr

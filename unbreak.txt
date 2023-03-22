@@ -1,2 +1,7 @@
+! Title: Zym's Unbreak Filter List
+! Expires: 360 days
+! Homepage: https://github.com/zymsbgt
+! Homepage for the repository: https://github.com/zymsbgt
+
 ! Whitelist PayPal payment gateway (so that it shows PayPal balance payment option for foreign currency transactions)
 @@||paypal.com/webapps/*$document
