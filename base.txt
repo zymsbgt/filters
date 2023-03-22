@@ -1,0 +1,24 @@
+! Title: Zym's Filter List
+! Expires: 120 days
+! Homepage: https://github.com/zymsbgt
+! Homepage for the repository: https://github.com/zymsbgt
+
+! Twitter filters to reduce distractions (abandoned because of all the changes muskrat has been making, please use an extention like Control Panel for Twiter instead)
+twitter.com##a.r-13qz1uu.r-rjfia.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
+twitter.com##.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.r-6koalj.r-1loqt21.css-1dbjc4n
+twitter.com##div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-1f1sjgu.r-ymttw5.r-1ny4l3l.r-1wtj0ep.css-1dbjc4n
+twitter.com##div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1yzf0co.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
+twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n
+twitter.com##.css-1dbjc4n > div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
+
+! Removes ad banner from TextNow
+www.textnow.com###banner
+
+! Removes the "Sign in with Google" prompt on websites
+accounts.google.com/gsi/iframe/$subdocument
+smartlock.google.com
+
+! Removes Wix banner from Wix sites
+*.wixsite.com##.has-custom-focus.YD5pSO.Oxzvyr
+manage.wix.com##.yN9WA.o3eezgx---justifyContent-6-middle.o3eezgx---alignItems-6-center.o3eezgx---direction-10-horizontal.s2FTUXs

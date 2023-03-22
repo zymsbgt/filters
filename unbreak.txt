@@ -1,0 +1,2 @@
+! Whitelist PayPal payment gateway (so that it shows PayPal balance payment option for foreign currency transactions)
+@@||paypal.com/webapps/*$document
