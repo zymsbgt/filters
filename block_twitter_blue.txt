@@ -1,0 +1,8 @@
+! Title: Zym's Block Twitter Blue Filter List
+! Expires: 360 days
+! Homepage: https://github.com/zymsbgt
+! Homepage for the repository: https://github.com/zymsbgt
+
+! Special thanks to Some Ordinary Gamers for sharing this code!
+twitter.com##article [data-testid="icon-verified"]:upward(article)
+twitter.com##.css-ldbjc4n.r-1habvwh.r-18u37iz.r-1wtj0ep [data-testid="verified-badge"]
